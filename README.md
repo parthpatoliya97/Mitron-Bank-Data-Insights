@@ -44,7 +44,7 @@
 
 - Salaried IT employees are the largest segment.
 
-- Higher presence of business owners and government employees, smaller share of freelancers.
+- smaller share of government employees.
 
 Overall Demographic Conclusion
 
