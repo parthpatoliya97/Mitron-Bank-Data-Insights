@@ -2,7 +2,51 @@
 ## Problem Statement :-
 - Mitron Bank is a legacy financial institution headquartered in Hyderabad. They want to introduce a new line of credit cards, aiming to broaden its product offerings and reach in the financial market. 
 
-- AtliQ Data Services came to know about this through an internal link and approached Mitron Bank with a proposal to implement this project. However, the strategy director of Mitron Bank, Mr. Bashnir Rover is skeptical and asked them to do a pilot project with the sample data before handing over them the full project. They provided a sample dataset of 4000 customers across five cities on their online spending and other details. 
+- AtliQ Data Services came to know about this through an internal link and approached Mitron Bank with a proposal to implement this project. However, the strategy director of Mitron Bank, Mr. Bashnir Rover is skeptical and asked them to do a pilot project with the sample data before handing over them the full project. They provided a sample dataset of 4000 customers across five cities on their online spending and other details.
+
+----------------------------
+### Dataset Tables Quick Overview :-
+
+#### dim_customers :
+- customer_id: This column represents the Unique ID assigned to each customer.
+- gender: This column represents the gender of the customer. (Male, Female)
+- age_group: This column categorizes the customer into different age groups. (21-24, 25-34, 35-45, 45+)
+- marital_status: This column indicates the marital status of the customer (single, married).
+- city: This column represents the city of residence for the customer. (Mumbai, Delhi-NCR, Chennai, Hyderabad, Bengaluru)
+- occupation: This column denotes the occupation or profession of the customer. (Salaried IT Employees, Salaried Other Employees, Business Owners, Freelancers, Government Employees)
+- average_income: This column indicates the monthly average income of the customer, in INR currency.
+
+#### fact_spends :
+- customer_id: This column represents the Unique ID of each customer, linking to the dim_customer table.
+- month: This column indicates the month in which the spending was recorded. (May, June, July, August, September, October)
+- category: This column describes the category of spending (Entertainment, Apparel, Electronics, etc).
+- payment_type: This column specifies the type of payment used by the customer (Debit Card, Credit Card, UPI, Net Banking).
+- spends: This column shows the total amount spent by the customer in the specified month, category and payment_type.
+
+-------------------------
+
+### What is Income Utilization ?
+
+- Income Utilization measures how much of a customer’s income is being spent or utilized through credit card transactions. 
+- higher income utilization percentage indicates that customers rely more on credit card for daily spending
+- while lower utilization suggests conservative spending or the presence of multiple income sources/payment modes.
+
+### Formula :-
+Income Utilization (%) = (Total Annual Card Spending / Annual Income) * 100
+
+### 🔹Which Is Better — High or Low Income Utilization?
+
+#### For Banks :
+- Moderate utilization is ideal.
+
+   - Too High → Higher revenue but higher credit risk
+
+   - Too Low → Low engagement and low revenue
+
+#### For Customers:
+- Lower utilization is generally better, as it indicates healthy spending habits and reduces credit risk.
+
+----------------------------------------------------------------
 
 ## 1️⃣ Demographics View 
 
