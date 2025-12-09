@@ -87,7 +87,7 @@ Income Utilization (%) = (Total Annual Card Spending / Annual Income) * 100
 
 - smaller share of government employees.
 
-Overall Demographic Conclusion
+### Conclusion :
 
 Mitron Bank’s customer base is urban, working-age, and dominated by salaried IT and married customers—reflecting a financially stable and digitally active audience with predictable cash flow.
 
@@ -145,7 +145,7 @@ Highest Avg Income:
 
 - Lowest: Government Employees → ₹125M
 
-Overall Income Conclusion
+### Conclusion :
 
 Majority of the bank's income comes from mid-career professionals, especially salaried IT employees and business owners residing in major metros like Mumbai and Chennai.
 
@@ -212,7 +212,7 @@ Majority of the bank's income comes from mid-career professionals, especially sa
 
 - 45+: ₹68M
 
-Overall Spending Conclusion
+Conclusion :
 
 Spending is driven by digitally active, middle-aged salaried professionals using credit cards for essential and lifestyle categories.
 
@@ -270,6 +270,6 @@ Lowest:
 
 - Business Owners → 33.22%
 
-Overall Utilization Conclusion
+### Conclusion :
 
 Financial engagement is strongest among Mumbai customers, IT employees, and mid-career professionals, while government employees and Chennai customers show lower utilization levels.
