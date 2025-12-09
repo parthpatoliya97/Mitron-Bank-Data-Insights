@@ -48,6 +48,8 @@ Income Utilization (%) = (Total Annual Card Spending / Annual Income) * 100
 
 ----------------------------------------------------------------
 
+## Key Insights :
+
 ## 1️⃣ Demographics View 
 
 ### Customer Distribution
