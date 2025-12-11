@@ -277,4 +277,30 @@ Lowest:
 Financial engagement is strongest among Mumbai customers, IT employees, and mid-career professionals, while government employees and Chennai customers show lower utilization levels.
 
 ------------------
+
+## Dashboard View 
+
 Live Dashboard View : - [Click Here](https://app.powerbi.com/view?r=eyJrIjoiNGE3MGUyYWItYjJmYi00YTg3LWI1MzItNDIyMTYyNGMyZjFlIiwidCI6IjJhYmVkYTA4LTMyOGEtNGFlMy1iYTg1LThiNzIxZmE1Mzg3OSJ9)
+
+### Home Page View
+![home page](https://github.com/parthpatoliya97/Mitron-Bank-Data-Insights/blob/main/Images/Mitron%20Bank%20Home%20Page.png?raw=true)
+
+-------------------
+
+### Demographics View
+![demographics view](https://github.com/parthpatoliya97/Mitron-Bank-Data-Insights/blob/main/Images/Mitron%20Bank%20Demographics%20View.png?raw=true)
+
+--------------
+
+### Income View
+![income view](https://github.com/parthpatoliya97/Mitron-Bank-Data-Insights/blob/main/Images/Mitron%20bank%20income%20view.png?raw=true)
+
+----------------
+
+### Spending View
+![spending view](https://github.com/parthpatoliya97/Mitron-Bank-Data-Insights/blob/main/Images/Mitron%20bank%20spending%20view.png?raw=true)
+
+-----------------------
+
+### Income Utilization View
+![income utilization view](https://github.com/parthpatoliya97/Mitron-Bank-Data-Insights/blob/main/Images/Mitron%20bank%20income%20utilization%20view.png?raw=true)
