@@ -156,7 +156,7 @@ Majority of the bank's income comes from mid-career professionals, especially sa
 ## 3️⃣ Spending View & Key Insights
 - Total Spend :- ₹531M 
 
-- Average Spend per Customer: ₹796K
+- Average Spend per Customer: ₹22.12K
 
 ### Spend by Gender
 
@@ -173,11 +173,11 @@ Majority of the bank's income comes from mid-career professionals, especially sa
 
 ### Spend by Payment Mode
 
-- Credit Card: ₹217M (40%)
+- Credit Card: ₹216M (40%)
 
 - UPI: ₹141M (27%)
 
-- Debit Card: ₹120M (23%)
+- Debit Card: ₹119M (23%)
 
 - Net Banking: ₹55M (11%)
 - → Strong preference for credit cards and digital payments.
